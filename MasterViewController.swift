@@ -22,7 +22,7 @@ class MasterViewController: UITableViewController,URLSessionDelegate,URLSessionD
         
         //台北市立動物園公開資料網址
     let url = NSURL(string: "http://data.taipei/opendata/datalist/apiAccess?scope=resourceAquire&amp;rid=a3e2b221-75e0-45c1-8f97-75acbd43d613")
-        //Test
+        //Testm
         //建立一般的session設定
         let sessionWithConfigure = URLSessionConfiguration.default
         
